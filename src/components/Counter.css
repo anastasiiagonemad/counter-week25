@@ -1,0 +1,35 @@
+body,
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 2rem;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+    margin: 3rem;
+}
+
+span {
+    font-size: 1.5em;
+    padding: 1rem;
+    background: violet;
+    border: 2px solid black;
+
+    border-radius: 50px;
+}
+
+button {
+    border: 1.5px solid black;
+    padding: 1rem;
+    background: violet;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
